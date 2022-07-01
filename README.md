@@ -1,5 +1,6 @@
 ## 👋 Hello! Welcome to my Github profile.
 ## My name is Átila Mariano.
+## I'm a fullstack developer in training.
           
  <div><br>
 <a href="https://github.com/atilamariano">
@@ -17,3 +18,11 @@
        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="50" height="50"/>
        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>   
 </div>       
+
+          ### Contatos:
+
+<div>
+
+<a href = "mailto:atilamariano27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/atilamarianoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
