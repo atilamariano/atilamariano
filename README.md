@@ -1,7 +1,7 @@
 ## 👋 Hello! Welcome to my Github profile.
 ## My name is Átila Mariano.
 
-## I'm a Full Stack developer in training.
+## I'm a Full Stack Developer.
           
 <div><br>
      <a href="https://github.com/atilamariano">
