@@ -1,9 +1,7 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
-## 👋 Hello! Welcome to my Github profile.
-## My name is Átila Mariano.
-
-## I'm a Full Stack Developer.
+<h1 align="center">Hello! 🙋‍♂️, I'm Átila Mariano</h1>
+<h3 align="center">
           
 <div><br>
      <a href="https://github.com/atilamariano">
