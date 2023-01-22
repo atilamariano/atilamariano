@@ -6,6 +6,60 @@
 </h3>
 
 <a href="https://app.daily.dev/atilamariano"><img align="right" src="https://api.daily.dev/devcards/bfb43e35acc648f9bca3015409744c1d.png?r=nad" width="400" alt="Atila Mariano's Dev Card"/></a>
+
+## <img src="https://img.icons8.com/nolan/25/computer.png"/> Technologies
+
+  </kbd>
+   <kbd>
+    <kbd>Library/FrameWorks</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  </kbd>
+   <br><br>
+   
+   <kbd>
+    <kbd>Adobe Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-photoshop.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-illustrator.png" />
+    <img width="30px" src="https://img.icons8.com/color/42/000000/adobe-premiere-pro--v1.png" />
+  </kbd>
+  <kbd>
+    <kbd>Others</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+  </kbd>
+  <kbd>
+    <kbd>Tools</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img width="30px" src="https://img.icons8.com/fluent/42/000000/sublime-text.png">
+  </kbd>
+  <kbd>
+    <kbd>OS</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+  </kbd>
+  <kbd>
+    <kbd>VM</kbd>
+    <br>
+    <br>
+    <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
+  </kbd>
+  <br/>
+  <br/>
+  
+ ## <img src="https://img.icons8.com/nolan/25/computer.png"/> Connect with me
           
 <div><br>
      <a href="https://github.com/atilamariano">
