@@ -74,6 +74,7 @@
     <kbd>VM</kbd>
     <br>
     <br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     <img width="30px" src="https://img.icons8.com/color/42/000000/virtualbox.png" />
   </kbd>
   <br/>
